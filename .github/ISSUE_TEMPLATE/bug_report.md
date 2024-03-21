@@ -30,6 +30,6 @@ assignees: ''
 -->
 
 ---
-#### Contributor [Guides](https://docs.meshery.io/project/contributing) and Resources
-- See https://meshery.io/catalog for browsable list of filters
-- 🙋🏾🙋🏼 Questions: [Layer5 Discussion Forum](https://discuss.layer5.io) and [Layer5 Community Slack](http://slack.layer5.io)
+#### Contributor [Guides](https://docs.meshplay.khulnasoft.com/project/contributing) and Resources
+- See https://meshplay.khulnasoft.com/catalog for browsable list of filters
+- 🙋🏾🙋🏼 Questions: [KhulnaSoft Discussion Forum](https://discuss.khulnasoft.com) and [KhulnaSoft Community Slack](http://slack.khulnasoft.com)

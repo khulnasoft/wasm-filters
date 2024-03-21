@@ -5,7 +5,7 @@ This PR Fixes #
 **Notes for Reviewers**
 
 
-**[Signed commits](https://github.com/layer5io/meshery/blob/master/CONTRIBUTING.md#signing-off-on-commits-developer-certificate-of-origin)**
+**[Signed commits](https://github.com/khulnasoft/meshery/blob/master/CONTRIBUTING.md#signing-off-on-commits-developer-certificate-of-origin)**
 - [ ] Yes, I signed my commits.
  
 

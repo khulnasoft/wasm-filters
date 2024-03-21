@@ -1,31 +1,31 @@
 <p style="text-align:center;" align="center">
       <picture align="center">
-         <source media="(prefers-color-scheme: dark)" srcset="img\readme\layer5-light-no-trim.svg">
-         <source media="(prefers-color-scheme: light)" srcset="img\readme\layer5-no-trim.svg">
-         <img align="center" src="./.github/assets/images/layer5/layer5-no-trim.svg" alt="Shows a dark layer5 logo in light mode and a white logo in dark mode" width="45%"/>
+         <source media="(prefers-color-scheme: dark)" srcset="img\readme\khulnasoft-light-no-trim.svg">
+         <source media="(prefers-color-scheme: light)" srcset="img\readme\khulnasoft-no-trim.svg">
+         <img align="center" src="./.github/assets/images/khulnasoft/khulnasoft-no-trim.svg" alt="Shows a dark khulnasoft logo in light mode and a white logo in dark mode" width="45%"/>
       </picture>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/layer5io/layer5.svg)
-![GitHub](https://img.shields.io/github/license/layer5io/layer5.svg) 
-![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/layer5/help%20wanted.svg?color=%23DDDD00)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.layer5.io)
-![Twitter Follow](https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/khulnasoft/khulnasoft.svg)
+![GitHub](https://img.shields.io/github/license/khulnasoft/khulnasoft.svg) 
+![GitHub issues by-label](https://img.shields.io/github/issues/khulnasoft/khulnasoft/help%20wanted.svg?color=%23DDDD00)
+[![Slack](https://img.shields.io/badge/Slack-@khulnasoft.svg?logo=slack)](http://slack.khulnasoft.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/khulnasoft.svg?label=Follow&style=social)
 
 # WebAssembly Filters for Envoy
 
 A collection of WebAssemby filters for Envoy proxy written in C,C++,C# and Rust for exercising different features provided by envoy-wasm.
 
-See the [Image Hub](https://layer5.io/projects/image-hub) as a related project (a sample application). Also, see Meshery's filter management capabitilies.
+See the [Image Hub](https://khulnasoft.com/projects/image-hub) as a related project (a sample application). Also, see Meshery's filter management capabitilies.
 
 ### Weekly Meeting Details
 
-See all community meeting details --> https://meet.layer5.io
+See all community meeting details --> https://meet.khulnasoft.com
 
 - Topic: WebAssembly Filters Meeting
 - Day: Weekly on Mondays
 - Time: 7:30pm IST / 3:00pm UK / 9:00am Central
-- WASM Filters call: https://meet.layer5.io/wasm
+- WASM Filters call: https://meet.khulnasoft.com/wasm
 - Meeting Minutes: https://bit.ly/3zGZgGg
 
 ---
@@ -33,9 +33,9 @@ See all community meeting details --> https://meet.layer5.io
 ## Join the Community!
 
 <a name="contributing"></a><a name="community"></a>
-Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://docs.google.com/document/d/17OPtDE_rdnPQxmk2Kauhm3GwXF1R5dZ3Cj8qZLKdo5E/edit">Layer5 Community Welcome Guide</a> for a tour of resources available to you and jump into our <a href="http://slack.layer5.io">Slack</a>!
+Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://docs.google.com/document/d/17OPtDE_rdnPQxmk2Kauhm3GwXF1R5dZ3Cj8qZLKdo5E/edit">KhulnaSoft Community Welcome Guide</a> for a tour of resources available to you and jump into our <a href="http://slack.khulnasoft.com">Slack</a>!
 
-<a href="https://slack.meshery.io">
+<a href="https://slack.meshplay.khulnasoft.com">
 
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="img\readme\slack-dark-128.png"  width="110px" align="right" style="margin-left:10px;margin-top:10px;">
@@ -44,23 +44,23 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 </picture>
 </a>
 
-<a href="https://meshery.io/community"><img alt="Layer5 Community" src="img\readme\community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
+<a href="https://meshplay.khulnasoft.com/community"><img alt="KhulnaSoft Community" src="img\readme\community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
 
 <p>
-✔️ <em><strong>Join</strong></em> <a href="https://meet.layer5.io">community meetings</a>. See details on the <a href="https://calendar.google.com/calendar/b/1?cid=bGF5ZXI1LmlvX2VoMmFhOWRwZjFnNDBlbHZvYzc2MmpucGhzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">Layer5 community calendar</a>.<br />
-✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/Layer5io?sub_confirmation=1">meeting recordings</a>.<br />
-✔️ <em><strong>Access</strong></em> the Community Drive by completing a community <a href="https://layer5.io/newcomer">Member Form</a>.<br />
-✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.layer5.io">Community Forum</a>.<br />
+✔️ <em><strong>Join</strong></em> <a href="https://meet.khulnasoft.com">community meetings</a>. See details on the <a href="https://calendar.google.com/calendar/b/1?cid=bGF5ZXI1LmlvX2VoMmFhOWRwZjFnNDBlbHZvYzc2MmpucGhzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20">KhulnaSoft community calendar</a>.<br />
+✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/KhulnaSoftio?sub_confirmation=1">meeting recordings</a>.<br />
+✔️ <em><strong>Access</strong></em> the Community Drive by completing a community <a href="https://khulnasoft.com/newcomer">Member Form</a>.<br />
+✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.khulnasoft.com">Community Forum</a>.<br />
 </p>
 <p align="center">
-<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>.
+<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Akhulnasoft+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>.
 </p>
 
 <div>&nbsp;</div>
 
-### About Layer5
+### About KhulnaSoft
 
-[Layer5](https://layer5.io)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace developer-defined infrastructure. We empower engineer to change how they write applications, support operators in rethinking how they run modern infrastructure and enable product owners to regain full control over their product portfolio.
+[KhulnaSoft](https://khulnasoft.com)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace developer-defined infrastructure. We empower engineer to change how they write applications, support operators in rethinking how they run modern infrastructure and enable product owners to regain full control over their product portfolio.
 
 
 ## Get the Rust toolchain
