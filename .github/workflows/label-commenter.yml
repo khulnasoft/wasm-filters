@@ -2,12 +2,9 @@ name: Label Commenter
 
 on:
   issues:
-    types:
-      - labeled
-
+    types: [labeled, unlabeled]
   pull_request_target:
-    types:
-      - labeled
+    types: [labeled, unlabeled]
 
 permissions:
   contents: read
@@ -16,11 +13,9 @@ permissions:
 
 jobs:
   comment:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main # Set your default branch
+      - uses: actions/checkout@v3
 
       - name: Label Commenter
         uses: peaceiris/actions-label-commenter@v1
